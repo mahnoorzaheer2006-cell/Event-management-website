@@ -1,2 +1,22 @@
-# Event-management-website
-An interactive event management website that allows users to explore events and organizers to create, manage, and update event details. It includes features like event listings, ticket booking, and a simple dashboard, providing a user-friendly experience while demonstrating core web development skills.
+
+# 🎉 Event Management Website
+
+## 📌 Description
+This is a web-based event management system where users can view events and organizers can create and manage events.
+
+## 🚀 Features
+- Create events
+- Book tickets
+- Organizer dashboard
+- Event listings
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## 📸 Screenshots
+(Add images here)
+
+## 🔗 Live Demo
+(Add link if hosted)
