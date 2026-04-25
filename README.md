@@ -15,8 +15,6 @@ This is a web-based event management system where users can view events and orga
 - CSS
 - JavaScript
 
-## 📸 Screenshots
-(Add images here)
-
 ## 🔗 Live Demo
-(Add link if hosted)
+https://joyous-gather-engine.lovable.app/
+
